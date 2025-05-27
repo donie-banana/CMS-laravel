@@ -1,5 +1,84 @@
-Portions © 2025 Dion Beau Gierman (aka donie-banana) – Licensed under the DBG-NCL (Non-Commercial License)
-All third-party packages (including Laravel, laravel-debugbar, Font Awesome, etc.) are licensed under their respective open-source licenses.
+DION BEAU GIERMAN NON-COMMERCIAL LICENSE (DBG-NCL) – Version 1.0, May 2025
 
-This project includes components under the MIT License and Creative Commons Attribution 4.0 License.
-Use of those components must comply with their original terms.
+Copyright (c) 2025 Dion Beau Gierman (aka donie-banana)
+All rights reserved.
+
+This license applies to all original source code, assets, and files authored by Dion Beau Gierman (aka donie-banana) in this repository.
+
+---
+
+## 1. DEFINITIONS
+
+1.1 “Software” means all original code, content, and assets created by Dion Beau Gierman (aka donie-banana) contained in this repository.
+
+1.2 “Third-Party Software” means code or content included in this repository that is not authored by Dion Beau Gierman and is governed by its own license (e.g. MIT, CC BY 4.0, etc.).
+
+1.3 “Personal Use” means using, modifying, or sharing the Software for private, educational, or non-commercial purposes, without receiving or expecting any kind of payment or compensation.
+
+1.4 “Commercial Use” means using, distributing, or modifying the Software, or derivative works of it, in any way that is intended for commercial advantage, monetary gain, paid services, or any business-related purpose.
+
+---
+
+## 2. GRANT OF RIGHTS
+
+You are hereby granted a non-exclusive, royalty-free, non-transferable, non-commercial license to:
+
+- Use, copy, and modify the Software for **Personal Use only**
+- Share the Software or modifications thereof with others for **non-commercial purposes**, so long as this license file is included
+
+---
+
+## 3. RESTRICTIONS
+
+You **may not**:
+
+- Use the Software, or any part of it (modified or not), in any **Commercial Use** case
+- Sell, license, sublicense, rent, or otherwise monetize the Software
+- Use the Software in any product, service, or project that is sold or offered in exchange for money, subscriptions, or any commercial gain
+- Sub-license or re-license this Software under any commercial license or otherwise misrepresent its permitted use
+
+**Commercial use is only allowed with explicit, written permission through a signed contract with Dion Beau Gierman (aka donie-banana).**
+
+---
+
+## 4. THIRD-PARTY DEPENDENCIES
+
+This repository may include Third-Party Software such as:
+
+- Laravel (MIT License)
+- laravel-debugbar (MIT License)
+- Font Awesome (CC BY 4.0 and MIT)
+
+These components are licensed under their own terms and may permit commercial use. **This license does not override those terms.** You are responsible for complying with the respective licenses of all third-party components.
+
+---
+
+## 5. TERMINATION
+
+If you violate any terms of this license, your rights under it are automatically terminated. You must delete all copies of the Software in your possession, including any modified versions.
+
+---
+
+## 6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. USE AT YOUR OWN RISK.
+
+---
+
+## 7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR MISUSE OF THIS SOFTWARE.
+
+---
+
+## 8. CONTACT FOR COMMERCIAL USE
+
+To request a commercial license, contact:
+
+Dion Beau Gierman (aka donie-banana)  
+Email: [your-email-here]  
+GitHub: https://github.com/donie-banana
+
+---
+
+By using this Software, you acknowledge that you understand and agree to the above terms.
